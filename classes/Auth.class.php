@@ -18,7 +18,7 @@ class User
     private $user_id;
 
     private $db_host = "localhost";
-    private $db_name = "testdb";
+    private $db_name = "u9627285_db";
     private $db_user = "testdb";
     private $db_pass = "testdb";
 
